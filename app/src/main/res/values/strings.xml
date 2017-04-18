@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VerticalViewPager</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_with_twitter">SIGN IN WITH TWITTER</string>
+    <string name="sign_with_facebook">SIGN IN WITH FACEBOOK</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="send_button">Send</string>
+    <string name="trouble_signing_in">Having trouble signing in?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reset_forgotten_password">You’ve come to the right place to reset a forgotten password</string>
+    <string name="reset_password">Reset</string>
+    <string name="gotoCreateAcount">Don\'t Have an Account?</string>
+</resources>
